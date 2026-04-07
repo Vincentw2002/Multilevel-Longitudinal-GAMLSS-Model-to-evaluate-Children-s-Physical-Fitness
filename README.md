@@ -1,5 +1,4 @@
 # Multilevel-Longitudinal-GAMLSS-Model-to-evaluate-Childrens-Physical-Fitness
-This repository contains code for an MPH thesis on distributional modeling of youth physical fitness using GAMLSS. It includes data simulation, model fitting, Monte Carlo evaluation, and an R Shiny dashboard for visualization and interpretation of multi-level fitness outcomes.
 # Children's Fitness Assessment — Multilevel GAMLSS Pipeline & Dashboard
 
 A complete R toolkit for analysing longitudinal children's fitness test data using **Generalised Additive Models for Location, Scale and Shape (GAMLSS)** in a three-level hierarchical structure (school → class/cohort → child). The repository contains a simulation engine for stress-testing, a model fitting and diagnostics pipeline, and an interactive R Shiny dashboard aimed at school teachers and PE curriculum planners.
