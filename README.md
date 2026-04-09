@@ -96,7 +96,7 @@ Seven scenarios probe model robustness under common real-world violations:
 | **S4** | Measurement heaping — 50m Dash rounded to nearest 0.5 s; Vital Capacity to nearest 50 mL |
 | **S5** | Informative dropout — weaker children more likely to drop out at follow-up |
 | **S6** | Cohort-level intervention shock — 10% of cohorts receive a performance boost from time 1 |
-| **S8** | Device/administrator calibration bias across schools + 100% rounding |
+| **S7** | Device/administrator calibration bias across schools + 100% rounding |
 
 ---
 
